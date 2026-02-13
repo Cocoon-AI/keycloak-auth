@@ -7,7 +7,7 @@ Companion to the Python backend package: [`keycloak-cocoon-ai`](https://github.c
 ## Install
 
 ```bash
-npm install git+ssh://git@github.com/Cocoon-AI/keycloak-auth.git
+npm install git+https://github.com/Cocoon-AI/keycloak-auth.git
 ```
 
 ## Core (framework-agnostic)
